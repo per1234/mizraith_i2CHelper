@@ -1,0 +1,27 @@
+############################################
+# Syntax Coloring for mizraith's i2CHelper
+############################################
+
+############################################
+# Datatypes (KEYWORD1)
+############################################
+
+i2CHelper	KEYWORD1
+
+############################################
+# Methods and Functions (KEYWORD2)
+############################################
+
+setBit	    KEYWORD2
+setRegister	KEYWORD2
+set2Registers	KEYWORD2
+getBit      KEYWORD2
+getRegister KEYWORD2
+get2Registers KEYWORD2
+
+
+############################################
+# Constants (LITERAL1)
+############################################
+
+i2caddr     LITERAL1
